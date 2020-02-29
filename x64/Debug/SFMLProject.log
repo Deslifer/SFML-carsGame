@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\kolmi\source\repos\SFMLProject\main.cpp(44,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\kolmi\source\repos\SFMLProject\main.cpp(87,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kolmi\source\repos\SFMLProject\main.cpp(100,96): warning C4244: аргумент: преобразование "const T" в "unsigned int", возможна потеря данных
+C:\Users\kolmi\source\repos\SFMLProject\main.cpp(100,96): warning C4244:         with
+C:\Users\kolmi\source\repos\SFMLProject\main.cpp(100,96): warning C4244:         [
+C:\Users\kolmi\source\repos\SFMLProject\main.cpp(100,96): warning C4244:             T=float
+C:\Users\kolmi\source\repos\SFMLProject\main.cpp(100,96): warning C4244:         ]
+C:\Users\kolmi\source\repos\SFMLProject\main.cpp(100,72): warning C4244: аргумент: преобразование "const T" в "unsigned int", возможна потеря данных
+C:\Users\kolmi\source\repos\SFMLProject\main.cpp(100,72): warning C4244:         with
+C:\Users\kolmi\source\repos\SFMLProject\main.cpp(100,72): warning C4244:         [
+C:\Users\kolmi\source\repos\SFMLProject\main.cpp(100,72): warning C4244:             T=float
+C:\Users\kolmi\source\repos\SFMLProject\main.cpp(100,72): warning C4244:         ]
+C:\Users\kolmi\source\repos\SFMLProject\main.cpp(145,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SFMLProject.vcxproj -> C:\Users\kolmi\source\repos\SFMLProject\x64\Debug\SFMLProject.exe
